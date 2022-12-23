@@ -1,0 +1,368 @@
+body{
+    margin:0;
+    padding: 1rem;
+}
+
+.flex-container{
+    border: 1px solid black;
+    width: 1100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-items{
+    color: black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    border: 1px solid#6495ED;
+}
+
+.item{
+    background-color:  #483D8B ;
+    flex-grow: 5;
+}
+
+.item2{
+    font-size: x-large;
+    flex-grow: 1;
+    flex-shrink: 3;
+}
+
+.flex-container2{
+    width: 1100px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item3{
+    color: black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    border: 1px solid #6495ED; 
+}
+
+.imagen1{
+    padding: 10px; margin: 10px; float: right; width: 250px; 
+}
+
+.imagen2{
+    padding: 10px; margin: 10px; float: right; width: 300px; 
+}
+
+.flex-container3{
+    border: 1px solid black;
+    width: 1100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+   
+.flex-container4{
+    border: 1px solid black;
+    width: 1100px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.items4{
+    color: black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    border: 1px solid #6495ED;  
+}
+
+.flex-container5{
+    border: 1px solid black;
+    width: 1100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item5{
+    color: black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    border: 1px solid #6495ED;
+}
+
+.flex-container6{
+    border: 1px solid black;
+    width: 1100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item6{
+    color: black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    border: 1px solid #6495ED; 
+}
+
+.flex-container7{
+    border: 1px solid black;
+    width: 1100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item7{
+    color: black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    border: 1px solid #6495ED; 
+}
+
+.flex-container8{
+    border: 1px solid black;
+    width: 1100px;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.items8{
+    color: black;
+    flex-basis: 1500px;
+    border: 1px solid #6495ED; 
+}
+
+.flex-container9{
+    border: 1px solid #6495ED;
+    width: 1100px;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.items9o{
+    color: black;
+    flex-basis: 700px;
+    border: 1px solid #6495ED; 
+}
+
+.items9{
+    color: black;
+    flex-basis: 400px;
+    border: 1px solid #6495ED; 
+}
+
+.flex-container10{
+    border: 1px solid black;
+    width: 1100px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+ 
+
+.flex-container11{
+    border: 1px solid black;
+    width: 1100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.items11{
+    color: black;
+   flex-grow: 1;
+    border: 1px solid #6495ED;
+}
+
+.flex-container12{
+    border: 1px solid black;
+    width: 1100px;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item12{
+    color: black;
+    flex-basis: 1500px;
+    border: 1px solid #6495ED;
+}
+
+.flex-container13{
+    border: 1px solid black;
+    width: 1100px;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.items13{
+    color: black;
+    flex-grow: 1;
+    border: 1px solid #6495ED;
+}
+
+.flex-container14{
+    border: 1px solid black;
+    width: 1100px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.items14{
+    color: black;
+    flex-basis: 400px;
+    border: 1px solid #6495ED;
+}
+
+.flex-container15{
+    border: 1px solid black;
+    width: 1100px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.items15{
+    color: black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    border: 1px solid #6495ED;  
+    text-align: center;
+}
+
+.flex-container16{
+    border: 1px solid black;
+    width: 1100px;
+    height: 50px;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item16{
+    color: black;
+    flex-grow: 2;
+    border: 1px solid #6495ED; 
+    text-align: center;
+}
+
+.item16q{
+    flex-grow: 1;
+    border: 1px solid #6495ED;
+}
+
+.flex-container17{
+    border: 1px solid black;
+    width: 1100px;
+    height: 120px;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.items17{
+    color: black;
+    border: 1px solid #6495ED;
+    flex-grow: 2;
+}
+
+
+.flex-container18{
+    border: 1px solid black;
+    width: 1100px;
+    height: 150px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.items18{
+    color: black;
+    flex-basis: 900px;
+    align-self: center;
+}
+
+.items18i{
+    border: 1px solid black;
+    margin: 60px;
+    padding: 5px;
+    margin-left:2px;
+    margin-right:2px;
+    width: 90px;
+    height: 30px;
+}
+
+.flex-container19{
+    border: 1px solid black;
+    background-color: #6495ED;
+    width: 1100px;
+    height: 40px;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: row; 
+}
+
+.flex-container20{
+    border: 1px solid black;
+    background-color: #6495ED;
+    width: 1100px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-container21{
+    border: 1px solid black;
+    background-color: #6495ED;
+    width: 1100px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item21s{
+    width: 400px;
+}
+
+.flex-container22{
+    border: 1px solid black;
+    width: 1100px;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.item22{
+    width: 600px;
+    border: 1px solid #6495ED;
+}
